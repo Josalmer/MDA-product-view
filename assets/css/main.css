@@ -2828,4 +2828,13 @@ body.is-menu-visible #menu {
   
 	.card-admin-image {
 		max-width: 100% !important;
-	}
+  }
+  
+  .bus-logo-bar {
+    margin-left: 15px;
+    max-width: 2.5%;
+  }
+
+  .bus-logo-menu {
+    max-width: 100%;
+  }
