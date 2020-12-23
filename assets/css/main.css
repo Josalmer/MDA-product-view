@@ -2821,7 +2821,35 @@ body.is-menu-visible #menu {
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
 
-  
+  /**************/
+  /*CSS NUESTRO*/
+  /*************/
+
+  .img-tablero{
+    width: 100%;
+    height: 100%;
+  }
+
+  .img-equipo{
+    width: 200px;
+    height: 220px;
+  }
+
+  .sub-links{
+    list-style: none;
+ 
+  }
+
+  .sub-links li a{
+    color:#eeeeee8a !important;
+    text-decoration: none;
+  }
+
+  .sub-links li a:hover{
+    color:#ffffff !important;
+    text-decoration: none;
+  }
+
 	.card-app-image {
 		max-width: 80% !important;
   }
